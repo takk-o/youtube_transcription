@@ -1,7 +1,7 @@
 # youtube_transcription
 
 ## Overview
-URLで指定したYouTube動画の音声をテキストファイルに文字起こしする。
+URLで指定したYouTube動画の音声をテキストファイルに文字起こしする。  
 Sample : https://www.youtube.com/watch?v=PXV7c4szsyw
 
 ## Requirements
