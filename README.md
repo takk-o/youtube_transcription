@@ -20,9 +20,7 @@ Sample : https://www.youtube.com/watch?v=PXV7c4szsyw
 ## Usage
 1. youtube_transcription.pyを起動
 1. 'YouTube_URL:'に、文字起こしをしたいYoutubeのURLを入力
-1. audioフォルダにテンポラリ音声ファイルをダウンロード
 1. textフォルダに文字起こし結果が格納される
-1. audioファイル・フォルダを削除
 
 ## Author
 - takk-o
