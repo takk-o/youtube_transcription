@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+__pycache__/
+
+# 文字起こしの結果
+text/
